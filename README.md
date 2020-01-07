@@ -53,6 +53,7 @@ NT | 1
 ---
 
 Play-by-play data and team rosters downloaded from nflscrapR.
+
 Analysis done in python with pandas and matplotlib
 
 The data was a little bit messier than I would have liked, so if anyone can recommend another source of play-by-play data, shoot me a message
