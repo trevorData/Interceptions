@@ -6,6 +6,8 @@ Out of QBs with at least 7 interceptions in 2019, Jameis Winston had the highest
 
 Compare these to the league averages of 20% of interceptions going to linebackers and 24% of interceptions going to non-defensive backs.
 
+After a year with an astoundingly high amount of interceptions from Winston, does this sort of abnormality indicate a fixable flaw or a problem that is here to stay?
+
 _ |	Interceptions |	DB |	DL |	LB |	DB% |	LB% |	DL% |
 ---|---|----|----|----|----|----|----
 J.Winston |	30 |	20 |	0 |	10 |	0.67 |	0.33 |	0 |
